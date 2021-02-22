@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://user-images.githubusercontent.com/77061416/108146349-04415680-7108-11eb-8a48-424bc00f2fe8.jpg" alt="Bt">  
+<p align="center"><img src="https://user-images.githubusercontent.com/77061416/108649854-21579a00-74f9-11eb-940e-90dda3310226.jpg" alt="Bt">  
 <p align="center">
 <a href="https://github.com/Noob-Junk/noob"><img title="noob" src="https://github-readme-stats.vercel.app/api/pin/?username=Noob-Junk&repo=noob&theme=radical"></a>
 <a href="https://github.com/Noob-Junk/junk"><img title="junk" src="https://github-readme-stats.vercel.app/api/pin/?username=Noob-Junk&repo=junk&theme=radical"></a>
