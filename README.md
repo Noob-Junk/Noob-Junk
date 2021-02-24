@@ -5,7 +5,7 @@
 <a href="https://github.com/Noob-Junk/junk"><img title="junk" src="https://github-readme-stats.vercel.app/api/pin/?username=Noob-Junk&repo=junk&theme=radical"></a>
 <a href="https://github.com/Noob-Junk/skull"><img title="skull" src="https://github-readme-stats.vercel.app/api/pin/?username=Noob-Junk&repo=skull&theme=radical"></a>
 <a href="https://github.com/Noob-Junk/voice"><img title="voice" src="https://github-readme-stats.vercel.app/api/pin/?username=Noob-Junk&repo=voice&theme=radical"></a>
-<a href="https://github.com/Noob-Junk/aypeh"><img title="aypeh" src="https://github-readme-stats.vercel.app/api/pin/?username=Noob-Junk&repo=voice&theme=radical"></a>
+<a href="https://github.com/Noob-Junk/aypeh"><img title="aypeh" src="https://github-readme-stats.vercel.app/api/pin/?username=Noob-Junk&repo=aypeh&theme=radical"></a>
 </p>
 
 <p align="center>
